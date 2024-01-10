@@ -1,0 +1,12 @@
+JsonpData({
+    "lines":[
+        {
+            "title":"*圣罗兰-推荐线路-首选",
+            "host":"http://sll1.dian668.com"
+        },
+        {
+            "title":"*圣罗兰-临时线路-备用",
+            "host":"http://115.223.43.14:5959"
+        }
+]
+})
